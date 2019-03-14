@@ -39,7 +39,7 @@ def create_parser():
 
 def main(args):
     parser = create_parser()
-    args = parser.parse_args()
+    args = parser.parse_args(args)
     url = args.link
     return scraper(url)
 
