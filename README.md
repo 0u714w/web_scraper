@@ -1,5 +1,3 @@
-![italian navy](https://i.imgur.com/idSrthZ.gif)
-
 # Web Scraper
 
 Program to scrape links, email addresses, phone numbers, and images from a website
